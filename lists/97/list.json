@@ -1,36 +1,45 @@
 {
-  "name": "Hermes Eco",
-  "timestamp": "2021-07-15T12:15:29.993Z",
+  "name": "Hermes Token List",
+  "timestamp": "2022-02-15T12:15:29.993Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
+  "logoURI": "https://raw.githubusercontent.com/Hermes-Eco/token-list/main/assets/0x5ef508122dd73A2D302EF7e9D0122db8084AA148/logo.webp",
   "tags": {},
   "tokens": [
-    {
-      "name": "Hermes Eco",
-      "address": "0x5ef508122dd73A2D302EF7e9D0122db8084AA148",
-      "symbol": "HMS",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://app.solarbeam.io/icon.png"
-    },
     {
       "name": "Wrapped BNB",
       "address": "0x9E9beC5d26487CB43D71CECfDfC93bB32F7f37cC",
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://app.solarbeam.io/images/tokens/bnb.png"
+      "logoURI": "https://raw.githubusercontent.com/Hermes-Eco/token-list/main/assets/0x9E9beC5d26487CB43D71CECfDfC93bB32F7f37cC/logo.webp"
     },
     {
-      "name": "USDC Coin",
-      "address": "0x813b24c0f3bafeb03db596b97d487ac362756961",
-      "symbol": "USDC",
+      "name": "Hermes Eco",
+      "address": "0x5ef508122dd73A2D302EF7e9D0122db8084AA148",
+      "symbol": "HMS",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/Hermes-Eco/token-list/main/assets/0x5ef508122dd73A2D302EF7e9D0122db8084AA148/logo.webp"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "address": "0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe",
+      "symbol": "CAKE",
       "decimals": 6,
       "chainId": 97,
-      "logoURI": "https://app.solarbeam.io/images/tokens/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/Hermes-Eco/token-list/main/assets/0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe/logo.webp"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/Hermes-Eco/token-list/main/assets/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee/logo.webp"
     },
     {
       "name": "USDT Coin",
@@ -38,31 +47,15 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://app.solarbeam.io/images/tokens/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/Hermes-Eco/token-list/main/assets/0x337610d27c682e347c9cd60bd4b3b107c9d34ddd/logo.webp"
     },
     {
-      "name": "Dai Stablecoin",
-      "address": "0x0c085b4b68261da18d860f647a33216503b3b26c",
-      "symbol": "DAI",
-      "decimals": 18,
+      "name": "USDC Coin",
+      "address": "0x813b24c0f3bafeb03db596b97d487ac362756961",
+      "symbol": "USDC",
+      "decimals": 6,
       "chainId": 97,
-      "logoURI": "https://app.solarbeam.io/images/tokens/dai.png"
-    },
-    {
-      "name": "Binance-Peg BUSD Token",
-      "address": "0x8301f2213c0eed49a7e28ae4c3e91722919b8b47",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://app.solarbeam.io/images/tokens/busd.png"
-    },
-    {
-      "name": "ChainLink Token",
-      "address": "0x84b9b910527ad5c03a9ca831909e21e236ea7b06",
-      "symbol": "LINK",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Hermes-Eco/token-list/main/assets/0x813b24c0f3bafeb03db596b97d487ac362756961/logo.webp"
     }
   ]
 }
